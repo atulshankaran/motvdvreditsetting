@@ -1,0 +1,20 @@
+{
+    "emp_details": [
+    
+    {
+    "emp_name": "Navneet" ,
+    "email": "navneet@viewlift.com" ,
+    "job_profile": "Sr.QA" 
+    },
+    {
+    "emp_name": "Riya" ,
+    "email": "riya@viewlift.com" ,
+    "job_profile": "OA"
+    },
+    {
+    "emp_name": "Abhilash" ,
+    "email": "abhilash@viewlift.com" ,
+    "job_profile": "Sr.OA"
+    }
+    ]
+    }
